@@ -10,7 +10,7 @@
 
 .left {
   left: 0;
-  background-color: #0f62fe;
+  background-color: #a5a093;
 }
 
 .right {
@@ -37,6 +37,11 @@
 }
 
 .profile_image {
-  width: 500px;
+  width: 300px;
+  height: auto;
+}
+
+.dog_image { 
+  width: 250px;
   height: auto;
 }
