@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import "./About.css";
 import Picture from "../assets/Picture.png";
+import Socials from '../component/Socials';
   
 export default class About extends Component {
   render() {
@@ -26,6 +27,7 @@ export default class About extends Component {
                 company!
             </p>
         </div>
+        <Socials/>
         </div>
         </div>
     </div>
